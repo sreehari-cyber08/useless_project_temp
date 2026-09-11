@@ -1,8 +1,9 @@
 # Useless Notify
 
 ## Basic Details
-**Team:** TBD
-**Team members:** TBD
+## Team Member
+- Member 1 : Sreehari M - Ahalia School Of Engenering And Technology
+- Member 2 : Rithunand S - Ahalia School Of Engenering And Technology
 
 ### Project Description
 Useless Notify is a perfectly reliable notification system for information that changes nothing. The Android app periodically sends intentionally pointless reminders and lets a goat scream on schedule, turning the absence of important news into a feature.
